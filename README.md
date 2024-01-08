@@ -1,3 +1,4 @@
+![Header](./your-header-image-name.png)
 <h1 align="center">Hi 👋, I'm Vijay Kumar R 👻</h1>
 <h3 align="center">Currently i am surviving😰 at AI🤖& DataScience ocean🌊 using Python boat👨‍💻 with Django paddle💜</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEp6GdoFMMrpAM_HWUQGrG_pGWfULg_Me10A&usqp=CAU">
