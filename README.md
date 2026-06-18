@@ -29,8 +29,6 @@ I build production-grade AI systems for banking, financial risk management, frau
 <tr>
 <td width="230" valign="top">
 
-<img src="./assets/profile.png" width="180" alt="Vijay Kumar R" />
-
 <br>
 
 ## Focus Areas
