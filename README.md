@@ -1,12 +1,15 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+GenAI+%7C+LLM+%7C+FinTech+%7C+FRM;Building+Production-Grade+AI+Systems;Machine+Learning+%7C+RAG+%7C+NLP+%7C+OCR+%7C+Python" alt="Typing SVG" />
-</p>
 
-<h1 align="center">Vijay Kumar R</h1>
+<div align="center">
 
-<h3 align="center">AI Engineer | GenAI | LLM | FinTech | FRM</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+GenAI+%7C+LLM+%7C+FinTech+%7C+FRM;Building+Production-Grade+AI+Systems;Machine+Learning+%7C+RAG+%7C+NLP+%7C+OCR+%7C+Python" alt="Typing SVG" />
 
-<p align="center">
+# Vijay Kumar R
+
+### AI Engineer | GenAI | LLM | Machine Learning | FinTech | FRM
+
+I build production-grade AI systems for banking, financial risk management, fraud detection, transaction analytics, document intelligence, and intelligent automation.
+
+<p>
   <a href="https://www.linkedin.com/in/vijaykumar717">
     <img src="https://img.shields.io/badge/LinkedIn-vijaykumar717-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -14,60 +17,87 @@
     <img src="https://img.shields.io/badge/GitHub-vijaykumar717-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:itsvijaykumar717@gmail.com">
-    <img src="https://img.shields.io/badge/Email-itsvijaykumar717%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+</div>
 
 ---
 
 <table>
 <tr>
-<td width="220" align="center" valign="top">
+<td width="230" valign="top">
 
-<img src="Github_Header.png" width="170" style="border-radius: 50%;" alt="Vijay Kumar R" />
+<img src="./assets/profile.png" width="180" alt="Vijay Kumar R" />
 
-<br><br>
+<br>
 
-### SKILLS
+## Focus Areas
 
-**AI / GenAI**  
-**Machine Learning**  
-**NLP / OCR**  
-**Programming & Data**  
-**Tools & Platforms**  
-**Domain Expertise**
+- Generative AI
+- Large Language Models
+- RAG Systems
+- Machine Learning
+- NLP / OCR
+- Anomaly Detection
+- FinTech / FRM
+- Fraud Detection
+- Transaction Analytics
+- Document Intelligence
+- On-Premise AI
 
 </td>
 
 <td valign="top">
 
-## Hi, I'm Vijay Kumar R 👋
+## About Me
 
-I am an **AI Engineer** working in the **Financial Technology** domain, focused on building **production-grade AI systems** for **banking, fraud detection, transaction analytics, document intelligence, compliance automation, and Financial Risk Management**.
+I am an **AI Engineer** working in the **Financial Technology** domain, focused on building secure, scalable, and production-ready AI solutions.
 
-I work across **Generative AI, Large Language Models, Retrieval-Augmented Generation, Machine Learning, NLP, OCR, anomaly detection, text-to-SQL systems, and secure on-premise AI deployment**.
+My work includes **Generative AI**, **Large Language Models**, **Retrieval-Augmented Generation**, **Machine Learning**, **NLP**, **OCR**, **anomaly detection**, **real-time transaction monitoring**, **document intelligence**, **text-to-SQL analytics**, and **on-premise AI deployment**.
+
+I enjoy building AI systems that solve real business problems in **FinTech**, **Banking**, **Financial Risk Management**, **Fraud Detection**, **Compliance Automation**, and **Enterprise Intelligence**.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Tech Stack
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### AI / GenAI
-`Large Language Models (LLM · LLMs)` · `Generative AI (GenAI)` · `Retrieval-Augmented Generation (RAG)` · `Prompt Engineering` · `LangChain` · `FAISS` · `Vector Search` · `Embeddings` · `Ollama` · `Local LLMs`
 
-### ML & NLP
-`Machine Learning (ML)` · `Deep Learning (DL)` · `Natural Language Processing (NLP)` · `Anomaly Detection` · `Optical Character Recognition (OCR)` · `Computer Vision` · `Speech Processing` · `Audio Feature Extraction (Librosa)`
+`Generative AI` · `Large Language Models` · `Retrieval-Augmented Generation` · `Prompt Engineering` · `AI Agents` · `LangChain` · `FAISS` · `Vector Search` · `Embeddings` · `Local LLMs` · `Ollama` · `Qwen` · `Mistral` · `Gemini API`
 
-### Frameworks
-`PyTorch` · `TensorFlow` · `Keras` · `Scikit-Learn` · `HuggingFace` · `OpenCV` · `NLTK` · `SpaCy` · `FastAPI`
+### Machine Learning
 
-### Data Engineering
-`Python` · `PySpark` · `Apache Kafka` · `Apache Airflow` · `PostgreSQL` · `Pandas` · `NumPy` · `SQL` · `REST APIs`
+`Machine Learning` · `Deep Learning` · `Supervised Learning` · `Unsupervised Learning` · `Anomaly Detection` · `Random Forest` · `Isolation Forest` · `K-Means Clustering` · `Bi-Directional LSTM` · `XAI`
 
-### Dev & Tools
-`Docker` · `Linux` · `Web Scraping` · `Git` · `Metabase` 
+### NLP / OCR
+
+`Natural Language Processing` · `OCR` · `Document Intelligence` · `PaddleOCR` · `Text Classification` · `Intent Classification` · `NLLB Translation` · `Multilingual Processing`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Data / Backend
+
+`Python` · `PySpark` · `Spark ML` · `SQL` · `PostgreSQL` · `Pandas` · `NumPy` · `Parquet` · `FastAPI` · `REST APIs`
+
+### Tools / Platforms
+
+`Docker` · `Linux` · `Git` · `Kafka` · `Airflow` · `PySpark` · `Hugging Face` · `Web Scraping` · `Metabase` · `Cloud Deployment` · `On-Premise Deployment`
 
 ### FinTech / Domain
-`Real-Time Transaction Monitoring` · `Anti-Money Laundering (AML)` · `Financial Risk Management (FRM)` · `Knowledge Graphs` · `Fraud Detection` · `Customer Analytics` · `Risk Scoring` · `Compliance Automation`
+
+`Financial Risk Management` · `FRM` · `Fraud Detection` · `Transaction Monitoring` · `Customer Analytics` · `Risk Scoring` · `False Positive Reduction` · `Compliance Automation` · `LEA Workflows` · `Link Analysis` · `Mule Analysis`
 
 </td>
 </tr>
@@ -77,70 +107,86 @@ I work across **Generative AI, Large Language Models, Retrieval-Augmented Genera
 
 ## Projects
 
-### 01. Case Manager AI Assistant
-**Tech Stack:** Python · LLMs · RAG Pipeline · Prompt Engineering · Qwen2.5 · Local LLM · Quantization · Conversation Memory · FastAPI · PostgreSQL · Docker · Linux
+<table>
+<tr>
+<th width="25%">Project</th>
+<th width="35%">Tech Stack</th>
+<th width="40%">Highlights</th>
+</tr>
 
-**Highlights:**  
-Built an LLM-powered assistant for **Financial Risk Management** workflows. Enabled investigators to get **overall customer summaries**, **alert raised reasons**, **false positive score with reasoning**, **pattern-based insights**, and **chatbot-style customer/transaction investigation**. Also supported **prompt-based transaction charts and customer profile analysis**.
+<tr>
+<td><b>Case Manager AI Assistant</b></td>
+<td>Python · LLMs · RAG Pipeline · Prompt Engineering · Qwen2.5 · Local LLM · Quantization · Conversation Memory · FastAPI · PostgreSQL · Docker · Linux</td>
+<td>Built an LLM-powered assistant for Financial Risk Management workflows. Supports customer summaries, alert raised reasons, false positive scoring with reasoning, pattern-based insights, chatbot-style investigation, and prompt-based transaction charts.</td>
+</tr>
+
+<tr>
+<td><b>Real-Time Transaction Anomaly Detection</b></td>
+<td>Python · PySpark · Spark ML · Random Forest · Isolation Forest · Supervised Learning · Unsupervised Learning · Feature Engineering · EDA · Parquet · SQL</td>
+<td>Handled 50+ crore financial transactions across multiple channels. Built supervised and unsupervised ML models to detect suspicious transaction patterns and reduce false alerts by around 50%.</td>
+</tr>
+
+<tr>
+<td><b>Intelligent LEA Document Automation</b></td>
+<td>Python · PaddleOCR · NLLB · Qwen2.5-Instruct · IPEX-LLM · Quantization · OCR · NLP · Prompt Engineering · Docker · Linux</td>
+<td>Built an OCR, translation, and local LLM-based document intelligence system for LEA and banking compliance workflows. Extracts action items such as debit freeze, account statement requests, and regulatory follow-up tasks.</td>
+</tr>
+
+<tr>
+<td><b>GenAI Text-to-SQL Analytics Dashboard</b></td>
+<td>Python · SQLCoder · Gemini API · Text-to-SQL · Metabase · SQL · REST APIs · Business Intelligence · Data Visualization</td>
+<td>Built a natural language to SQL analytics system that converts business questions into SQL queries and sends them to Metabase endpoints to generate dashboards and charts in seconds.</td>
+</tr>
+
+<tr>
+<td><b>RAG-Based XML Code Generation Assistant</b></td>
+<td>Python · RAG Pipeline · LLMs · Prompt Engineering · XML Code Generation · Embeddings · Vector Search · FAISS · LangChain · FastAPI · Docker · Linux</td>
+<td>Built an internal RAG assistant for generating structured XML rule engine configurations from natural language prompts using templates, examples, documentation, and rule logic patterns.</td>
+</tr>
+
+<tr>
+<td><b>Dynamic Website RAG Chatbot</b></td>
+<td>Next.js · Gemini · Weaviate · RAG Pipeline · Vector Database · Embeddings · Selenium · BeautifulSoup · Web Scraping · Python · Cloud Deployment</td>
+<td>Built a website-specific RAG chatbot where users provide a URL, the system extracts visible content, stores embeddings, and creates a chatbot for question answering based on the website knowledge.</td>
+</tr>
+
+<tr>
+<td><b>NLP Intent Classification System</b></td>
+<td>Python · Bi-Directional LSTM · Deep Learning · NLP · Multi-Class Classification · Data Augmentation · TensorFlow · Keras · Tokenization · Text Preprocessing</td>
+<td>Built a Bi-Directional LSTM model for multi-class intent prediction in conversational ordering workflows, including food order, add to cart, and cancel order intents.</td>
+</tr>
+
+</table>
 
 ---
 
-### 02. Real-Time Transaction Anomaly Detection
-**Tech Stack:** Python · PySpark · Spark ML · Random Forest · Isolation Forest · Supervised Learning · Unsupervised Learning · Feature Engineering · EDA · Parquet · SQL
+## Project Highlights
 
-**Highlights:**  
-Built a real-time anomaly detection pipeline for **50+ crore financial transactions** across multiple channels. Performed **EDA**, **channel-wise analysis**, **feature engineering**, and **Parquet conversion**. Used **Random Forest** and **Isolation Forest** to reduce **false alerts by around 50%**. Deployed for **Indian regional banking environments**.
-
----
-
-### 03. Intelligent LEA Document Automation
-**Tech Stack:** Python · PaddleOCR · NLLB · Qwen2.5-Instruct · IPEX-LLM · Quantization · OCR · NLP · Prompt Engineering · Docker · Linux
-
-**Highlights:**  
-Built an intelligent document automation system for **LEA and banking compliance workflows**. Used **PaddleOCR** for extraction, **NLLB** for multilingual translation to English, and **local Qwen2.5-Instruct** with **IPEX-LLM quantization** to extract action items such as **debit freeze**, **account statement requests**, and other **regulatory workflow actions**.
-
----
-
-### 04. GenAI Text-to-SQL Analytics Dashboard
-**Tech Stack:** Python · SQLCoder · Gemini API · Text-to-SQL · Metabase · SQL · REST APIs · Business Intelligence · Data Visualization
-
-**Highlights:**  
-Built a **natural language to SQL analytics system** that converts user questions into SQL queries using **SQLCoder** and **Gemini API**. The generated query is sent to **Metabase endpoints** to create **dashboards and charts in seconds**, supporting both **on-premise and cloud AI workflows**.
-
----
-
-### 05. RAG-Based XML Code Generation Assistant
-**Tech Stack:** Python · RAG Pipeline · LLMs · Prompt Engineering · XML Code Generation · Embeddings · Vector Search · FAISS · LangChain · FastAPI · Docker · Linux
-
-**Highlights:**  
-Built an internal RAG application that helps operations teams generate **rule engine XML configurations** from natural language prompts. The system retrieves **templates, examples, and internal rule logic patterns** before generating structured XML output, reducing manual effort and improving consistency.
-
----
-
-### 06. Dynamic Website RAG Chatbot
-**Tech Stack:** Next.js · Gemini · Weaviate · RAG Pipeline · Vector Database · Embeddings · Selenium · BeautifulSoup · Web Scraping · Python · Cloud Deployment
-
-**Highlights:**  
-Built a **dynamic website RAG chatbot** where users provide a **website URL**, and the system automatically scrapes **visible text content**, stores embeddings in **Weaviate**, and creates a **website-specific chatbot** for question answering. Designed for **dynamic knowledge ingestion** and **cloud deployment**.
-
----
-
-### 07. NLP Intent Classification System
-**Tech Stack:** Python · Bi-Directional LSTM · Deep Learning · NLP · Multi-Class Classification · Data Augmentation · TensorFlow · Keras · Tokenization · Text Preprocessing
-
-**Highlights:**  
-Built a **Bi-Directional LSTM** model for **multi-class intent prediction** in conversational ordering workflows. Classified intents such as **food order**, **add to cart**, and **cancel order**. Created a custom dataset using **different combinations and data augmentation techniques** to improve coverage and generalization.
+- Built **LLM-powered assistants** for Financial Risk Management and case investigation workflows.
+- Developed **real-time anomaly detection systems** for large-scale transaction monitoring.
+- Worked on **OCR and multilingual document intelligence** using PaddleOCR, NLLB, and local LLMs.
+- Built **Text-to-SQL analytics workflows** using SQLCoder, Gemini API, and Metabase.
+- Designed **RAG-based enterprise assistants** for XML rule engine code generation.
+- Created **dynamic website RAG chatbots** with web scraping, embeddings, and vector search.
+- Built **NLP intent classification systems** using Bi-Directional LSTM and data augmentation.
 
 ---
 
 ## Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/vijaykumar717](https://www.linkedin.com/in/vijaykumar717)
-- **GitHub:** [github.com/vijaykumar717](https://github.com/vijaykumar717)
-- **Email:** [itsvijaykumar717@gmail.com](mailto:itsvijaykumar717@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/vijaykumar717">
+    <img src="https://img.shields.io/badge/LinkedIn-vijaykumar717-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:itsvijaykumar717@gmail.com">
+    <img src="https://img.shields.io/badge/Email-itsvijaykumar717%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<p align="center">
-  <b>Building AI systems for FinTech, FRM, Fraud Detection, Document Intelligence, and Enterprise GenAI.</b>
-</p>
+<div align="center">
+
+<b>Building AI systems for FinTech, FRM, Fraud Detection, Document Intelligence, and Enterprise GenAI.</b>
+
+</div>
